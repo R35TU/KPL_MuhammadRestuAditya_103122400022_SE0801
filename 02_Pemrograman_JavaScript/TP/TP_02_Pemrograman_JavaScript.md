@@ -32,7 +32,7 @@ Dengan demikian, program sudah berjalan sesuai dengan ketentuan soal.
 
 ## Kode Sumber
 
-Tersedia pada file [index.js](index.js)
+Tersedia pada file [index.js](..index.js)
 
 ---
 
