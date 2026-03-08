@@ -67,7 +67,7 @@ Agar seluruh konten halaman berada di tengah layar, digunakan **Flexbox** pada e
 
 # Output Akhir
 
-![Output Program](ouput_tp03.png)
+![Output Program](output_tp03.png)
 
 Setelah perubahan dilakukan, tampilan halaman menjadi berada di tengah dan menggunakan font **Inconsolata** sesuai dengan instruksi pada tugas pendahuluan.
 
